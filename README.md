@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santhoshnunna
+- 👋 Hi, I’m @santhoshnunna having around 17 years of experience in Java/J2ee technologies.
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning ... Microservices and Public Clouds
 - 💞️ I’m looking to collaborate on ...
